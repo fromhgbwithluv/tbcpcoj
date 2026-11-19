@@ -5,16 +5,16 @@
     "icon": "https://tbcpclub.github.io/tbcpcimg/TBCPC.ico",
     "slug": "tbcpc",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.94%",
-    "time": 2046,
-    "timeDay": 8165,
-    "timeWeek": 3599,
-    "timeMonth": 2824,
-    "timeYear": 2046,
+    "uptime": "98.84%",
+    "uptimeDay": "80.35%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "98.84%",
+    "time": 2040,
+    "timeDay": 10173,
+    "timeWeek": 3517,
+    "timeMonth": 2763,
+    "timeYear": 2040,
     "dailyMinutesDown": {
       "2026-04-24": 123,
       "2026-04-30": 75,
@@ -29,7 +29,8 @@
       "2026-10-20": 337,
       "2026-10-19": 53,
       "2026-10-31": 239,
-      "2026-11-18": 87
+      "2026-11-18": 87,
+      "2026-11-19": 283
     }
   }
 ]
