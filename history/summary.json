@@ -4,17 +4,17 @@
     "url": "https://oj.tbcpc.id.vn",
     "icon": "https://tbcpclub.github.io/tbcpcimg/TBCPC.ico",
     "slug": "tbcpc",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "80.35%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "98.84%",
-    "time": 2040,
-    "timeDay": 10173,
-    "timeWeek": 3517,
-    "timeMonth": 2763,
-    "timeYear": 2040,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "68.31%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "98.79%",
+    "time": 2036,
+    "timeDay": 7118,
+    "timeWeek": 3267,
+    "timeMonth": 2717,
+    "timeYear": 2036,
     "dailyMinutesDown": {
       "2026-04-24": 123,
       "2026-04-30": 75,
@@ -30,7 +30,7 @@
       "2026-10-19": 53,
       "2026-10-31": 239,
       "2026-11-18": 87,
-      "2026-11-19": 283
+      "2026-11-19": 456
     }
   }
 ]
